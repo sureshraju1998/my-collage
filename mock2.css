@@ -1,0 +1,56 @@
+#header
+{
+}
+.clgName
+{
+font-size:35px;
+color:blue;
+position:absolute;
+left:190px;
+top:25px;
+background-color:yellow;
+
+}
+.logo2
+{
+
+position:absolute;
+left:1200px;
+top:12px;
+}
+
+
+.links
+{
+color:blue;
+font-size:30px;
+text-decoration:none;
+
+}
+#image
+{
+	margin-left:60px;
+	margin-top:40px;
+	width:340px;
+	height:300px;
+	border:3px solid blue;
+}
+.Admission
+{
+color:oarnge;
+background-color:rgb(244, 180, 180,0.5);
+padding:20px;
+text-decoration:none;
+position:absolute;
+top:450px;
+left:550px;
+}
+#form
+{
+position:absolute;
+width:100px;
+left:500px;
+top:200px;
+font-size:20px;
+}
+
